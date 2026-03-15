@@ -109,7 +109,7 @@ export function AboutSection() {
                 <p className="flex items-start gap-3">
                   <Zap className="w-5 h-5 text-primary shrink-0 mt-1" />
                   <span>
-                    As a second-year <span className="text-foreground font-semibold">Electronics and Communication Engineering</span> student 
+                    As a third-year <span className="text-foreground font-semibold">Electronics and Communication Engineering</span> student 
                     at PDEU, I am deeply passionate about exploring the intersection of hardware design and digital systems.
                   </span>
                 </p>
